@@ -1,14 +1,55 @@
+/* Font family for paragraphs */
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Header styles */
+header {
+    width: 100&;
+    background-image: linear-gradient(to right, cyan, lavender);
+    position: absolute;
+    top: 0px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+header h1 {
+    text-align: center;
+    font-family: 'Kufam', cursive;
+    padding: 50px;
+}
+
+/* Div styles for main content */
+
+main {
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+}
+
+section {
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+}
+
+section h3 {
+    position: relative;
+    padding: 50px;
+}
+
+/* paragraph 1 */
 .bold {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
+/* paragraph 2 */
 .large {
     font-size: 24px;
-    font-family: 'Times New Roman', Times, serif;
 }
 
+/* paragraph 3 */
 .height {
     line-height: 50px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
