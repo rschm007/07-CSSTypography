@@ -1,0 +1,14 @@
+.bold {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.large {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.height {
+    line-height: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
